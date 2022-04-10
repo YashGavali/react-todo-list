@@ -1,0 +1,41 @@
+.listContainer{
+    display:flex;
+    justify-content: center;
+      
+}
+
+.btnContainer{
+    margin-left: 10px;
+}
+
+.itemContainer{
+    margin: 15px 0px;
+    list-style: none;  
+}
+.itemContainer1{
+    margin: 15px 0px;
+    list-style: none;  
+    border: 2px solid yellow;
+    border-radius:10px;
+}
+
+input[type="checkbox"]{
+margin-right:10px
+}
+
+.inputDate{
+ margin-left:20px;
+ font-size: 12px;;
+}
+
+.itemDone{
+    text-decoration: line-through;
+    margin: 5px 5px;
+}
+
+.dueDate{
+    font-size: 12px;
+    font-weight: 800;
+    padding:0;
+    margin-right :100px;
+}

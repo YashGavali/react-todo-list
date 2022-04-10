@@ -1,0 +1,15 @@
+.btnContainer{
+    all:unset;
+    background-color: #9FB4FF;
+    padding:10px 20px;
+    border-radius:20px;
+    margin: 10px;
+    }
+
+.btnContainer:hover{
+background-color: #FFD36E;
+box-shadow: 4px 10px 19px -5px rgba(0,0,0,0.75);
+-webkit-box-shadow: 4px 10px 19px -5px rgba(0,0,0,0.75);
+-moz-box-shadow: 4px 10px 19px -5px rgba(0,0,0,0.75);
+transition: 0.5s all ease;
+}
